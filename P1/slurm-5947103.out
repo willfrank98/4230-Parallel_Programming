@@ -1,0 +1,21 @@
+stack size              (kbytes, -s) unlimited
+>Sequential time = 0.871551, Parallel time = 0.654146, Speedup = 1.332349, Version = 1
+>Sequential time = 0.820250, Parallel time = 0.108591, Speedup = 7.553584, Version = 2
+>Sequential time = 0.820556, Parallel time = 0.135574, Speedup = 6.052455, Version = 3
+>Sequential time = 0.781301, Parallel time = 0.107859, Speedup = 7.243733, Version = 4
+>Sequential time = 0.777593, Parallel time = 0.100618, Speedup = 7.728162, Version = 5
+>Sequential time = 0.815086, Parallel time = 0.136401, Speedup = 5.975664, Version = 6
+>Sequential time = 0.781796, Parallel time = 0.062492, Speedup = 12.510358, Version = 7
+>Sequential time = 0.779591, Parallel time = 0.063180, Speedup = 12.339213, Version = 8
+>Sequential time = 0.778276, Parallel time = 0.153597, Speedup = 5.066996, Version = 9
+>Sequential time = 0.777709, Parallel time = 0.105879, Speedup = 7.345257, Version = 10
+>Sequential time = 2.811812, Parallel time = 4.436463, Speedup = 0.633796, Version = 1
+>Sequential time = 2.499303, Parallel time = 0.365847, Speedup = 6.831550, Version = 2
+>Sequential time = 2.918921, Parallel time = 0.365686, Speedup = 7.982043, Version = 3
+>Sequential time = 2.895546, Parallel time = 0.336484, Speedup = 8.605302, Version = 4
+>Sequential time = 2.499120, Parallel time = 0.426428, Speedup = 5.860590, Version = 5
+>Sequential time = 2.951060, Parallel time = 0.497602, Speedup = 5.930563, Version = 6
+>Sequential time = 2.818671, Parallel time = 0.767177, Speedup = 3.674081, Version = 7
+>Sequential time = 2.933533, Parallel time = 0.476798, Speedup = 6.152569, Version = 8
+>Sequential time = 2.930721, Parallel time = 0.481241, Speedup = 6.089924, Version = 9
+>Sequential time = 2.903588, Parallel time = 0.326583, Speedup = 8.890814, Version = 10
