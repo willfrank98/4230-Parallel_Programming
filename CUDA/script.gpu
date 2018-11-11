@@ -11,4 +11,5 @@
 #SBATCH --export=ALL
 #SBATCH --qos=soc-gpu-kp     
 ulimit -c unlimited -s
-./dense
+./sparse sm1.mtx
+./sparse s3dkt3m2.mtx
