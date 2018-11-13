@@ -52,7 +52,7 @@ extern __global__ void mv_GPU(float *a, float (*c)[4096], float *b)
     if (tx <= -(96 * bx) + 4095)
       {
         suif_tmp0 = 0.0;
-//        suif_tmp0 = ((float *)(float (*)[])a)[tx + 96 * bx];
+	//suif_tmp0 = ((float *)(float (*)[])a)[tx + 96 * bx];
       }
     for (k = 0; k <= 42; k++)
       {
