@@ -49,7 +49,7 @@ main(int argc, char *argv[]) {
            c[i][j] += a[i][k] * b[k][j];
 	   //printf("Doing: c[%d][%d] += %f * %f\n", i, j, a[i][k], b[k][j]);
          }
-         //printf("SEQ: c[%d][%d] = %f\n", i,j,c[i][j]);
+         printf("SEQ: c[%d][%d] = %f\n", i,j,c[i][j]);
        }
      }
    }
