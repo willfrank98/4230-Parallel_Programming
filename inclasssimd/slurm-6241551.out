@@ -1,2 +1,0 @@
-stack size              (kbytes, -s) unlimited
->Sequential time = 6.646479, SIMD time = 2.728412, Speedup = 2.436025, input = 2

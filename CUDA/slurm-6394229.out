@@ -1,9 +1,0 @@
-stack size              (kbytes, -s) unlimited
-Seq time: 0.0020
-Par time: 0.0358
-Speedup: 0.0571
-VALID!
-Seq time: 9.6641
-Par time: 1.1320
-Speedup: 8.5372
-VALID!

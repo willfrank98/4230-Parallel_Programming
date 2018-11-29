@@ -1,7 +1,0 @@
-stack size              (kbytes, -s) unlimited
->Sequential time = 0.747664, Parallel time = 0.647296, Speedup = 1.155057, Version = 1
->Sequential time = 0.744311, Parallel time = 0.105233, Speedup = 7.072983, Version = 4
->Sequential time = 0.731951, Parallel time = 0.102597, Speedup = 7.134234, Version = 5
->Sequential time = 2.661670, Parallel time = 2.781341, Speedup = 0.956974, Version = 1
->Sequential time = 2.554261, Parallel time = 0.366389, Speedup = 6.971449, Version = 4
->Sequential time = 2.591609, Parallel time = 0.317918, Speedup = 8.151814, Version = 5
